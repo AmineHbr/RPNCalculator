@@ -1,0 +1,6 @@
+Nettoyage du code(nommage des variables/methodes/commentaire plus claire)
+
+des doublons dans les check à cause du delai impartis 
+
+faire des tests Automatisé
+
